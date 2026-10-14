@@ -1,2 +1,0 @@
-# calculadora-de-servicios-
-gastos 
